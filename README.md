@@ -1,4 +1,4 @@
-<h1>Reconhecimento Facil</h1>
+<h1>Reconhecimento Facil com Python, OpenCV e MediaPipe</h1>
 
   Programa para realizar um reconhecimento de rosto com Python (reconhecimento facial com Python) utilizando a webcam.
   Neste código, utilizei a linguagem de programação Python, juntamente com a biblioteca OpenCV para fazer o tratamento de imagens, e utilizei a biblioteca MediaPipe, que possui uma ferramenta para reconhecimento
